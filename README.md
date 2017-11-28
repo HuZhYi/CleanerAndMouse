@@ -1,12 +1,22 @@
-# Folding-Beijing
+# Cleaner And Mouse
+  清洁工与老鼠
 
-18th Nov 2017, 19 people lived in an industrial neighborhood in south Beijing was killed in a fire accident. The migrants workers eviction were accelerated by this event. Beijing government launched an action called ”Inspection, eviction and regulation” in the name of improving fire protection. 
-
-By 26th Nov 2017, city regulators need to evict tons of thousands what they called “Low quality population”, the residents who live here, need to do whatever they can, to protect themselves from being evicting. 
-Stay or leave? This is a war without winner. 
-
-[The Gurdian: China: 'ruthless' campaign to evict Beijing's migrant workers condemned](https://www.theguardian.com/world/2017/nov/27/china-ruthless-campaign-evict-beijings-migrant-workers-condemned)
-
-2017年11月18日，北京大兴县新建村聚福缘公寓起火，19人不幸丧生；火灾加速了城市管理者对外来人口的清理速度，以新建村为起点，北京全市展开了以消防安全为重点的安全隐患“大排查、大清理、大整治”行动。
-城市管理者需要在2017年11月26日前，全面清走这些“低端人口”；而住在这里的居民，需要保住自己在这个陌生城市中，临时逼仄的家。
-留下还是被驱逐？这是一场没有胜者的战役。
+1.游戏类型：
+    桌游，双人，卡牌，博弈
+    
+2.游戏人数：
+    2人
+    
+3.游戏背景：
+    一场在清洁工与老鼠之间的战争，对于人类来说，这是一个措施一个工作，对于老鼠来说，却是灾难。
+    清洁工：
+    3.1.攻击老鼠们放置在地面的粮食存储点，你将离胜利更近
+    3.2.小心挖到电线，不然你不止付出一点代价
+    老鼠：
+    3.3.布置你的地形，保护你和你的同胞
+    3.4.诱导，欺骗，天时地利都不属于你
+    
+4.其中一位开发者的话：
+    4.1.这是一个非常友好的游戏，请不要脑补各种奇怪的东西
+    4.2.对于一部分人来说，这个游戏充满bug，因为在某些情况下，它对防守方真是太友好了
+    4.3.对于一个策略游戏来说，运气在这里好像有点太重要了
